@@ -3,7 +3,7 @@ This is a project that contains a demo administrative system for a engineering u
 ## Software Required 
 ### 1. Xampp
  
-At first, you will need to install Xampp to import the necessary databases to access your account. You will find the files under the "Databases" folder. Download the database & put it inside the ***htdocs*** folder of Xampp.
+At first, you will need to install Xampp to import the necessary databases to access your account. You will find the files named "project.sql.gz". Download the database & put it inside the ***htdocs*** folder of Xampp or you can simply inport the database to your local host.
 
 ``` 
 Copy the SQL file > Xampp > htdocs > paste 
